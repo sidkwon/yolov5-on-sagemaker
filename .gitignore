@@ -1,0 +1,4 @@
+wandb/
+model/
+.ipynb_checkpoints
+yolov5/.netrc
