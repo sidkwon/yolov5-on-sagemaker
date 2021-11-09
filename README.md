@@ -1,4 +1,4 @@
-# Amazon SageMaker를 YOLOv5 Object detection 모델 학습
+# Amazon SageMaker에서 YOLOv5 Object detection 모델 학습하기
 
 ## How to use
 1. **1_sagemaker_training.ipynb**: Amazon SageMaker에서 YOLOv5 학습(Local mode training, SageMaker managed training)
