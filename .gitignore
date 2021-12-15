@@ -1,6 +1,6 @@
-wandb/
 model/
 yolov5/__pycache__/
-yolov5/runs/
+yolov5/runs/*
 yolov5/.netrc
 .ipynb_checkpoints
+profiler*
